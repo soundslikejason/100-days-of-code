@@ -1,13 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, Tuesday
+### Day 3: January 5, Thursday
 
-**Today's Progress**: Completed 3 Algorithms on FCC. Continuing Pomodoro Clock project.
+**Today's Progress**: Countdown function in Pomodoro Clock works! 
 
-**Thoughts**: I've been coding everyday for the past few weeks, so I feel even more encouraged that I can connect with others who are doing the same. 
+**Thoughts**: Interesting how numbers are handled. A number as a string data type stored in a variable seems to be automatically parsed to a number data type when the decrement operator is performed on it.  
 
 ### Day 2: January 4, Wednesday
 
 **Today's Progress**: Completed 2 Algorithms on FCC - "Sum All Odd Fibonacci Numbers" and "Sum All Primes."
 
 **Thoughts**: Learned a lot about the reduce method and recursion.
+
+### Day 1: January 3, Tuesday
+
+**Today's Progress**: Completed 3 Algorithms on FCC. Continuing Pomodoro Clock project.
+
+**Thoughts**: I've been coding everyday for the past few weeks, so I feel even more encouraged that I can connect with others who are doing the same. 
+
+
