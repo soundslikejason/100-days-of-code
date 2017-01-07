@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6, Friday
+
+**Today's Progress**: I can click to start and reset Pomodoro Clock.
+
+**Thoughts**: Everyday I open up the code editor and say to myself, "Let's create some magic." :sparkles: :joy:
+
 ### Day 3: January 5, Thursday
 
 **Today's Progress**: Countdown function in Pomodoro Clock works! 
