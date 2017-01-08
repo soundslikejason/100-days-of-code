@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 7, Satruday
+
+**Today's Progress**: Settings options to change length of time of clock.
+
+**Thoughts**: Continued thoughts from Day 3...however, when the increment operator is used it will just concatenate the numbers. Have to use parseInt() function instead.
+
 ### Day 4: January 6, Friday
 
 **Today's Progress**: I can click to start and reset Pomodoro Clock.
