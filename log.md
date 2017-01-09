@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 5: January 7, Satruday
+### Day 6: January 8, Sunday
+
+**Today's Progress**: Created working and break time transitions.
+
+**Thoughts**: The main features are all there. Styling is next!
+
+### Day 5: January 7, Saturday
 
 **Today's Progress**: Settings options to change length of time of clock.
 
