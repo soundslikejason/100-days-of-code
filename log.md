@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 9, Monday
+
+**Today's Progress**: Pomodoro Clock visibly changes color and text status during transitions or when clicked.
+
+**Thoughts**: Debating how minimalist I want the styling to be. Keeping it simple.
+
 ### Day 6: January 8, Sunday
 
 **Today's Progress**: Created working and break time transitions.
