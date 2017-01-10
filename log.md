@@ -2,7 +2,7 @@
 
 ### Day 7: January 9, Monday
 
-**Today's Progress**: Pomodoro Clock visibly changes color and text status during transitions or when clicked.
+**Today's Progress**: Pomodoro Clock visibly changes color and text status during transitions or when clicked. Completed 3 Algorithms on FCC.
 
 **Thoughts**: Debating how minimalist I want the styling to be. Keeping it simple.
 
