@@ -2,7 +2,7 @@
 
 ### Day 8: January 10, Tuesday
 
-**Today's Progress**: Finished Pomodoro Clock app. Also learned some ES6 - arrow functions and template strings.
+**Today's Progress**: Finished Pomodoro Clock app. Also learned some ES6 - arrow functions, template strings, and spread syntax. Completed 2 more FCC Algorithms.
 
 **Thoughts**: This is a type of app that I regularly use for work productivity.
 
