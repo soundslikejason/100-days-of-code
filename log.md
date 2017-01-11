@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10, Tuesday
+
+**Today's Progress**: Finished Pomodoro Clock app. Also learned some ES6 - arrow functions and template strings.
+
+**Thoughts**: This is a type of app that I regularly use for work productivity.
+
 ### Day 7: January 9, Monday
 
 **Today's Progress**: Pomodoro Clock visibly changes color and text status during transitions or when clicked. Completed 3 Algorithms on FCC.
