@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 11, Wednesday
+
+**Today's Progress**: Started Tic Tac Toe app. Completed 2 FCC Algorithms.
+
+**Thoughts**: Happy to have completed all the FCC Algorithms for the Front End Certification! Learned many JS methods in the process.
+
 ### Day 8: January 10, Tuesday
 
 **Today's Progress**: Finished Pomodoro Clock app. Also learned some ES6 - arrow functions, template strings, and spread syntax. Completed 2 more FCC Algorithms.
