@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 12, Thursday
+
+**Today's Progress**: Created the board for Tic Tac Toe. Looking at some new learning resources.
+
+**Thoughts**: It's time to start looking at resources for back end dev.
+
 ### Day 9: January 11, Wednesday
 
 **Today's Progress**: Started Tic Tac Toe app. Completed 2 FCC Algorithms.
