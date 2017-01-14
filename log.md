@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 13, Friday
+
+**Today's Progress**: Built a guess the RGB color game.
+
+**Thoughts**: Used plain JS only, which was a departure from using convenience tools as of late.
+
 ### Day 10: January 12, Thursday
 
 **Today's Progress**: Created the board for Tic Tac Toe. Looking at some new learning resources.
