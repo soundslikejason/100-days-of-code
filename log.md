@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 14, Saturday
+
+**Today's Progress**: Built a Todo List app. Continued working on Tic Tac Toe.
+
+**Thoughts**: Todo List was good exposure to gradients and animation. Tic Tac Toe is a step toward AI.
+
 ### Day 11: January 13, Friday
 
 **Today's Progress**: Built a guess the RGB color game.
