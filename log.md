@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 15, Sunday
+
+**Today's Progress**: Finished Tic Tac Toe app.
+
+**Thoughts**: It can determine win, lose, or tie playing against the computer.
+
 ### Day 12: January 14, Saturday
 
 **Today's Progress**: Built a Todo List app. Continued working on Tic Tac Toe.
