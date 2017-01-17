@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 16, Monday
+
+**Today's Progress**: Built a simple back-end using Node and Express. Worked on Simon app.
+
+**Thoughts**: Gonna be balancing three focuses for the next few days - Simon app, Patatap app, and learning back-end tools.
+
 ### Day 13: January 15, Sunday
 
 **Today's Progress**: Finished Tic Tac Toe app.
