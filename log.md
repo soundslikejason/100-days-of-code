@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 17, Tuesday
+
+**Today's Progress**: Started Patatap clone. Express exercises.
+
+**Thoughts**: Routing and EJS templates are make me feel so in control. It makes me think about the web in a whole new way. Also, getting my feet wet with canvas and a graphics framework. Two different worlds.
+
 ### Day 14: January 16, Monday
 
 **Today's Progress**: Built a simple back-end using Node and Express. Worked on Simon app.
