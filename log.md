@@ -2,9 +2,9 @@
 
 ### Day 16: January 18, Wednesday
 
-**Today's Progress**: Inital layout for Simon app. Express POST requests.
+**Today's Progress**: Inital layout for Simon app with audio & animate upon click event. Express POST requests.
 
-**Thoughts**: Can't wait to start building full, robust web apps. Today was a major step in executing routing GET/POST requests with Express.
+**Thoughts**: Can't wait to start building full, robust web apps. Today was a major step in routing GET/POST requests with Express.
 
 ### Day 15: January 17, Tuesday
 
