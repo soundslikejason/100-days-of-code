@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 19, Thursday
+
+**Today's Progress**: Finished Patatap clone. Simon app has sound. Started learning about APIs.
+
+**Thoughts**: Getting better each and every day. Small steps...consistency.
+
 ### Day 16: January 18, Wednesday
 
 **Today's Progress**: Inital layout for Simon app with audio & animate upon click event. Express POST requests.
