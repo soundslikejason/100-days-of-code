@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 20, Friday
+
+**Today's Progress**: Learned how to search and display data working with APIs.
+
+**Thoughts**: Used Yahoo Weather API, OMDb API, packages, routes, templates...oh my.
+
 ### Day 17: January 19, Thursday
 
 **Today's Progress**: Finished Patatap clone. Simon app has sound. Started learning about APIs.
