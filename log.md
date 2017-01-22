@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 21, Saturday
+
+**Today's Progress**: Simon game - randomly animates with increasing rounds.
+
+**Thoughts**: I think I can finish this project in the next day or two. I want that FCC Front-End Certification!!!
+
 ### Day 18: January 20, Friday
 
 **Today's Progress**: Learned how to search and display data working with APIs.
