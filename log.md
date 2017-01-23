@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 22, Sunday
+
+**Today's Progress**: Finished Simon game.
+
+**Thoughts**: Proud to have earned the FCC Front-End Certification. This is just the beginning! Rainy weather is great for coding...and napping. 😏
 ### Day 19: January 21, Saturday
 
 **Today's Progress**: Simon game - randomly animates with increasing rounds.
