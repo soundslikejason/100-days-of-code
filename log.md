@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 23, Monday
+
+**Today's Progress**: YelpCamp app layout and styling. Footer and header partials. New campgrounds POST route.
+
+**Thoughts**: Looking forward to learning about databases.
+
 ### Day 20: January 22, Sunday
 
 **Today's Progress**: Finished Simon game. Started YelpCamp app.
