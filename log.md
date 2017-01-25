@@ -2,7 +2,7 @@
 
 ### Day 22: January 24, Tuesday
 
-**Today's Progress**: Interacted with a Mongo database using Mongoose.
+**Today's Progress**: Interacted with a Mongo database using Mongoose. Added database to YelpCamp.
 
 **Thoughts**: Now I know the difference between SQL and NoSQL.
 
