@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 24, Tuesday
+
+**Today's Progress**: Interacted with a Mongo database using Mongoose.
+
+**Thoughts**: Now I know the difference between SQL and NoSQL.
+
 ### Day 21: January 23, Monday
 
 **Today's Progress**: YelpCamp app layout and styling. Footer and header partials. New campgrounds POST route.
