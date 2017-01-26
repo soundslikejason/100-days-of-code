@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 25, Wednesday
+
+**Today's Progress**: Data persistence for YelpCamp with RESTful routing.
+
+**Thoughts**: It's starting to feel like a legit app.
+
 ### Day 22: January 24, Tuesday
 
 **Today's Progress**: Interacted with a Mongo database using Mongoose. Added database to YelpCamp.
