@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 26, Thursday
+
+**Today's Progress**: Started RESTful Blog App. INDEX routing done.
+
+**Thoughts**: Configuration always seems complex, but I see the pattern.
+
 ### Day 23: January 25, Wednesday
 
 **Today's Progress**: Data persistence for YelpCamp with RESTful routing.
