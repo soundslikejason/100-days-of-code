@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 27, Friday
+
+**Today's Progress**: RESTful Blog App - header and footer partials, Semantic UI layout nav
+
+**Thoughts**: Making the comparison between Semantic UI and Bootstrap.
+
 ### Day 24: January 26, Thursday
 
 **Today's Progress**: Started RESTful Blog App. INDEX routing done.
