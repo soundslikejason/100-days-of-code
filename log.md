@@ -2,7 +2,7 @@
 
 ### Day 25: January 27, Friday
 
-**Today's Progress**: RESTful Blog App - header and footer partials, Semantic UI layout nav
+**Today's Progress**: RESTful Blog App - header and footer partials, Semantic UI layout nav. NEW and CREATE routes.
 
 **Thoughts**: Making the comparison between Semantic UI and Bootstrap.
 
