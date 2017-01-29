@@ -4,7 +4,7 @@
 
 **Today's Progress**: RESTful Blog App - SHOW route and template
 
-**Thoughts**: I didn't feel like coding today, but I pushed through. I think it was due learning about the devastating news of the travel ban.
+**Thoughts**: I didn't feel like coding today, but I pushed through. I think it was due to learning about recent news events.
 
 ### Day 25: January 27, Friday
 
