@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26: January 28, Saturday
+
+**Today's Progress**: RESTful Blog App - SHOW route and template
+
+**Thoughts**: I didn't feel like coding today, but I pushed through. I think it was due learning about the devastating news of the travel ban.
+
 ### Day 25: January 27, Friday
 
 **Today's Progress**: RESTful Blog App - header and footer partials, Semantic UI layout nav. NEW and CREATE routes.
