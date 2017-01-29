@@ -2,9 +2,9 @@
 
 ### Day 26: January 28, Saturday
 
-**Today's Progress**: RESTful Blog App - SHOW route and template
+**Today's Progress**: RESTful Blog App - SHOW route and template, EDIT/UPDATE, DESTROY.
 
-**Thoughts**: I didn't feel like coding today, but I pushed through. I think it was due to learning about recent news events.
+**Thoughts**: I didn't feel like coding today, but I pushed through. I think it was due to learning about recent news events. Gotta put things in perspective.
 
 ### Day 25: January 27, Friday
 
