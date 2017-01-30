@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 27: January 29, Sunday
+
+**Today's Progress**: RESTful Blog App - Final touches with sanitizing blog body and styling index.
+
+**Thoughts**: I want to replicate features from this project to build a Songwriter App.
+
 ### Day 26: January 28, Saturday
 
 **Today's Progress**: RESTful Blog App - SHOW route and template, EDIT/UPDATE, DESTROY.
