@@ -2,7 +2,7 @@
 
 ### Day 27: January 29, Sunday
 
-**Today's Progress**: RESTful Blog App - Final touches with sanitizing blog body and styling index.
+**Today's Progress**: RESTful Blog App - Final touches with sanitizing blog body and styling index. Started learning about data associations.
 
 **Thoughts**: I want to replicate features from this project to build a Songwriter App.
 
