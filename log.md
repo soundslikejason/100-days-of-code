@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 28: January 30, Monday
+
+**Today's Progress**: Back to YelpCamp - implementing comments!
+
+**Thoughts**: Grateful for today.
+
 ### Day 27: January 29, Sunday
 
 **Today's Progress**: RESTful Blog App - Final touches with sanitizing blog body and styling index. Started learning about data associations.
