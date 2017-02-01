@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 29: January 31, Tuesday
+
+**Today's Progress**: YelpCamp - created and styled comments.
+
+**Thoughts**: Last day of January, whew! I will at least double my efforts in February. 💪
+
 ### Day 28: January 30, Monday
 
 **Today's Progress**: Back to YelpCamp - implementing comments!
@@ -167,5 +173,3 @@
 **Today's Progress**: Completed 3 Algorithms on FCC. Continuing Pomodoro Clock project.
 
 **Thoughts**: I've been coding everyday for the past few weeks, so I feel even more encouraged that I can connect with others who are doing the same. 
-
-
