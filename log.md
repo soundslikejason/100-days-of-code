@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 30: February 1, Wednesday
+
+**Today's Progress**: Started learning about authentication building a simple app with passport.
+
+**Thoughts**: I've always wondered how apps have users login and logout.
+
 ### Day 29: January 31, Tuesday
 
 **Today's Progress**: YelpCamp - created and styled comments.
