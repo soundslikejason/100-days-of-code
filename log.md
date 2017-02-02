@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 2, Thursday
+
+**Today's Progress**: Finished authentication app implementing register/login/logout routes as well as middleware to see if a user is logged in.
+
+**Thoughts**: Excited to add authentication to YelpCamp next!
+
 ### Day 30: February 1, Wednesday
 
 **Today's Progress**: Started learning about authentication building a simple app with passport.
