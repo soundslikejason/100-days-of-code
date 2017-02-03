@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 3, Friday
+
+**Today's Progress**: Adding authorization to YelpCamp.
+
+**Thoughts**: Installing packages, defining user model, configuring passport always seem like seems so complex - but it's getting more familiar everytime I do it.
+
 ### Day 31: February 2, Thursday
 
 **Today's Progress**: Finished authentication app implementing register/login/logout routes as well as middleware to see if a user is logged in.
