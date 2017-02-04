@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 4, Saturday
+
+**Today's Progress**: Finished adding authorization to YelpCamp.
+
+**Thoughts**: All the passport logic seems hard to memorize, but I figure there will always be docs to reference. It's so empowering to know how many social networking sites handle authorization on the back-end. 
+
 ### Day 32: February 3, Friday
 
 **Today's Progress**: Adding authorization to YelpCamp.
