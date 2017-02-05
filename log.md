@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 5, Sunday
+
+**Today's Progress**: Refactored routes for YelpCamp
+
+**Thoughts**: Cleaning up code is therapeutic. 
+
 ### Day 33: February 4, Saturday
 
 **Today's Progress**: Finished adding authorization to YelpCamp.
