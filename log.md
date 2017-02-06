@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 6, Monday
+
+**Today's Progress**: YelpCamp user associations for creating a comment or a campground.
+
+**Thoughts**: I'm curious to see how difficult it would be to do authentication without passport. 
+
 ### Day 34: February 5, Sunday
 
 **Today's Progress**: Refactored routes for YelpCamp
