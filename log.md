@@ -2,7 +2,7 @@
 
 ### Day 35: February 6, Monday
 
-**Today's Progress**: YelpCamp user associations for creating a comment or a campground.
+**Today's Progress**: YelpCamp user associations for creating a comment or a campground. Campground edit, update, and destroy.
 
 **Thoughts**: I'm curious to see how difficult it would be to do authentication without passport. 
 
