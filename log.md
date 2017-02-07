@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 7, Tuesday
+
+**Today's Progress**: YelpCamp authorization to edit, update, or destroy a campground. Hiding edit and delete buttons if user is not authorized.
+
+**Thoughts**: It was cool to write a middleware from scratch.
+
 ### Day 35: February 6, Monday
 
 **Today's Progress**: YelpCamp user associations for creating a comment or a campground. Campground edit, update, and destroy.
