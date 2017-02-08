@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 37: February 8, Wednesday
+
+**Today's Progress**: YelpCamp UI improvements - refactored middleware, flash messages, landing page refactor, dynamic price feature. 
+
+**Thoughts**: Getting more comfortable seeing the relationship between models, routes, and views.
+
 ### Day 36: February 7, Tuesday
 
 **Today's Progress**: YelpCamp authorization to edit, update, or destroy a campground. Hiding edit and delete buttons if user is not authorized. Comments - edit, update, destroy, and authorization.
