@@ -4,7 +4,7 @@
 
 **Today's Progress**: YelpCamp UI improvements - refactored middleware, flash messages, landing page refactor, dynamic price feature. 
 
-**Thoughts**: Getting more comfortable seeing the relationship between models, routes, and views.
+**Thoughts**: Getting more comfortable seeing the relationship between models, routes, and views. npm install -g nodemon (super helpful to not have to restart server). 
 
 ### Day 36: February 7, Tuesday
 
