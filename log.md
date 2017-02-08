@@ -2,9 +2,9 @@
 
 ### Day 36: February 7, Tuesday
 
-**Today's Progress**: YelpCamp authorization to edit, update, or destroy a campground. Hiding edit and delete buttons if user is not authorized.
+**Today's Progress**: YelpCamp authorization to edit, update, or destroy a campground. Hiding edit and delete buttons if user is not authorized. Comments - edit, update, destroy, and authorization.
 
-**Thoughts**: It was cool to write a middleware from scratch.
+**Thoughts**: It was cool to write a middleware from scratch. Comments routes can be complex. Today was super productive.
 
 ### Day 35: February 6, Monday
 
