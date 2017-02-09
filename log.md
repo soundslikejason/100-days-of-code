@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 38: February 9, Thursday
+
+**Today's Progress**: Deployed YelpCamp. Learned more about OOP and keyword `this`. Started Hello React app.
+
+**Thoughts**: Excited to finally jump into React!
+
 ### Day 37: February 8, Wednesday
 
 **Today's Progress**: YelpCamp UI improvements - refactored middleware, flash messages, landing page refactor, dynamic price feature. 
