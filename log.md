@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 39: February 10, Friday
+
+**Today's Progress**: React - build and refactor components, webpack and babel, created React boilerplate.
+
+**Thoughts**: Setup for React was really complex. Glad I have a boilerplate to work with now. 
+
 ### Day 38: February 9, Thursday
 
 **Today's Progress**: Deployed YelpCamp. Learned more about OOP and keyword `this`. Started Hello React app.
