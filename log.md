@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 40: February 11, Saturday
+
+**Today's Progress**: Started React Weather app. Added react-router. Start reading "You Don't Know JS" book series.
+
+**Thoughts**: Getting introduced to ES6 features in the context of learning React. 
+
 ### Day 39: February 10, Friday
 
 **Today's Progress**: React - build and refactor components, webpack and babel, created React boilerplate.
