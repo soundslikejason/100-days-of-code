@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 41: February 12, Sunday
+
+**Today's Progress**: React Weather added pages and links. YDKJS bk1-ch1.
+
+**Thoughts**: Think I might abandon the current project and start something else.
+
 ### Day 40: February 11, Saturday
 
 **Today's Progress**: Started React Weather app. Added react-router. Start reading "You Don't Know JS" book series.
