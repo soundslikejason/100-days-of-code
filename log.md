@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 42: February 13, Monday
+
+**Today's Progress**: Started learning React with ES6 syntax e.g. ES6 classes and React.Component, import/export.
+
+**Thoughts**: React is both easy and hard to understand. I understand it on a high level, but I've got to be patient with the syntax. I was using an older syntax React resource before; concepts are mainly the same, but still abandoned it to lessen confusion.
+
 ### Day 41: February 12, Sunday
 
 **Today's Progress**: React Weather added pages and links. YDKJS bk1-ch1.
