@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 43: February 14, Tuesday
+
+**Today's Progress**: Building Spotify demo with React. Search bar, search function, fetching live data from Spotify API.
+
+**Thoughts**: A step in the right direction to make more "real world" apps.
+
 ### Day 42: February 13, Monday
 
 **Today's Progress**: Started learning React with ES6 syntax e.g. ES6 classes and React.Component, import/export.
