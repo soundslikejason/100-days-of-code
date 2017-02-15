@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 44: February 15, Wednesday
+
+**Today's Progress**: Spotify app is finished and fully functional.
+
+**Thoughts**: Feels good.
+
 ### Day 43: February 14, Tuesday
 
 **Today's Progress**: Building Spotify demo with React. Search bar, search function, fetching live data from Spotify API.
