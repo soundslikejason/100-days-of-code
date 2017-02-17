@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 46: February 17, Friday
+
+**Today's Progress**: Building React and Redux app for Book List.
+
+**Thoughts**: Heard Redux can be complex. I'm ready for it.
+
 ### Day 45: February 16, Thursday
 
 **Today's Progress**: Built YouTube search app with React.
