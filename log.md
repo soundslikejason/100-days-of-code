@@ -2,7 +2,7 @@
 
 ### Day 45: February 16, Thursday
 
-**Today's Progress**: Started YouTube search app with React.
+**Today's Progress**: Built YouTube search app with React.
 
 **Thoughts**: Cool to learn about Google's APIs.
 
