@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 45: February 16, Thursday
+
+**Today's Progress**: Started YouTube search app with React.
+
+**Thoughts**: Cool to learn about Google's APIs.
+
 ### Day 44: February 15, Wednesday
 
 **Today's Progress**: Spotify app is finished and fully functional.
