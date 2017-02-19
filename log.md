@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 47: February 18, Saturday
+
+**Today's Progress**: Reducers and containers to manage state with Redux.
+
+**Thoughts**: In full 'sponge' mode in my learning.
+
 ### Day 46: February 17, Friday
 
 **Today's Progress**: Building React and Redux app for Book List.
