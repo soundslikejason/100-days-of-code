@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 48: February 19, Sunday
+
+**Today's Progress**: Covered implementation of container class and binding of action creators.
+
+**Thoughts**: Stuff's getting really complex.
+
 ### Day 47: February 18, Saturday
 
 **Today's Progress**: Reducers and containers to manage state with Redux.
