@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 49: February 20, Monday
+
+**Today's Progress**: Finished React app, Book List.
+
+**Thoughts**: Making the connection between components, containers, reducers, and actions.
+
 ### Day 48: February 19, Sunday
 
 **Today's Progress**: Covered implementation of container class and binding of action creators.
