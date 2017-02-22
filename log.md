@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 51: February 22, Wednesday
+
+**Today's Progress**: Form elements in React and working with API's.
+
+**Thoughts**: Priorities right now: going deep with JS fundamentals as well as going deep with React.
+
 ### Day 50: February 21, Tuesday
 
 **Today's Progress**: Started Weather app with React and Redux using AJAX requests and middleware. Completed YDKJS - Up and Going (book 1).
