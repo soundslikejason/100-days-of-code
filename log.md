@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 50: February 21, Tuesday
+
+**Today's Progress**: Started Weather app with React and Redux. Completed YDKJS - Up and Going (book 1).
+
+**Thoughts**: Halfway through #100DaysofCode Challenge!
+
 ### Day 49: February 20, Monday
 
 **Today's Progress**: Finished React app, Book List.
