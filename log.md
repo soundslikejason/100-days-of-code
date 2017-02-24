@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 53: February 24, Friday
+
+**Today's Progress**: Started Blog app with React & Redux using React Router.
+
+**Thoughts**: Spaced repetition is the mother of learning.
+
 ### Day 52: February 23, Thursday
 
 **Today's Progress**: Made reusable components chart components and labeling with sparklines and lodash. Google Maps integration.
