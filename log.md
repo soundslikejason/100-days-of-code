@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 52: February 23, Thursday
+
+**Today's Progress**: Made reusable components chart components and labeling with sparklines and lodash
+
+**Thoughts**: Did a refactor to dry up code.
+
 ### Day 51: February 22, Wednesday
 
 **Today's Progress**: Form elements in React and working with API's.
