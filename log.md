@@ -2,9 +2,9 @@
 
 ### Day 52: February 23, Thursday
 
-**Today's Progress**: Made reusable components chart components and labeling with sparklines and lodash
+**Today's Progress**: Made reusable components chart components and labeling with sparklines and lodash. Google Maps integration.
 
-**Thoughts**: Did a refactor to dry up code.
+**Thoughts**: Did a refactor to dry up code. Containers change data; components do not.
 
 ### Day 51: February 22, Wednesday
 
