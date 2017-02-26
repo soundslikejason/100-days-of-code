@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 55: February 26, Sunday
+
+**Today's Progress**: Catching data with posts reducer. Explored the posts API.
+
+**Thoughts**: Need to solidify how action creators and reducers hook up.
+
 ### Day 54: February 25, Saturday
 
 **Today's Progress**: Installed, setup, and configure React Router. Nesting of routes and IndexRoute.
