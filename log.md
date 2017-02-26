@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 54: February 25, Saturday
+
+**Today's Progress**: Installed, setup, and configure React Router. Nesting of routes and IndexRoute.
+
+**Thoughts**: I wonder if other libraries use so many packages/dependencies.
+
 ### Day 53: February 24, Friday
 
 **Today's Progress**: Started Blog app with React & Redux using React Router.
