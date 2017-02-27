@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 56: February 27, Monday
+
+**Today's Progress**: Fetching data with lifecycle methods.
+
+**Thoughts**: I wonder how much all this will be necessary when software automation is automated.
+
 ### Day 55: February 26, Sunday
 
 **Today's Progress**: Catching data with posts reducer. Explored the posts API.
