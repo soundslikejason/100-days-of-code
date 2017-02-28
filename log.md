@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 57: February 28, Tuesday
+
+**Today's Progress**: Forms and form submission using redux-form library
+
+**Thoughts**: Last day of February...flew by...only 28 days in the month.
+
 ### Day 56: February 27, Monday
 
 **Today's Progress**: Fetching data with lifecycle methods, creating new posts, navigation with the link component.
