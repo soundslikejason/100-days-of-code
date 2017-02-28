@@ -2,7 +2,7 @@
 
 ### Day 56: February 27, Monday
 
-**Today's Progress**: Fetching data with lifecycle methods.
+**Today's Progress**: Fetching data with lifecycle methods, creating new posts, navigation with the link component.
 
 **Thoughts**: I wonder how much all this will be necessary when software automation is automated.
 
