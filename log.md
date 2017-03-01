@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 58: March 1, Wednesday
+
+**Today's Progress**: Passing control to redux form. CreatePost action creator.
+
+**Thoughts**: Need to take a closer look at redux-from documentation.
+
 ### Day 57: February 28, Tuesday
 
 **Today's Progress**: Forms and form submission using redux-form library
