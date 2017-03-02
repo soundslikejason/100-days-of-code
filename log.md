@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 59: March 2, Thursday
+
+**Today's Progress**: Form validation and cancel button for new post.
+
+**Thoughts**: Major usage of helpers from redux-form.
+
 ### Day 58: March 1, Wednesday
 
 **Today's Progress**: Passing control to redux form. CreatePost action creator.
