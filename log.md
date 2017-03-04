@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 61: March 4, Saturday
+
+**Today's Progress**: Posts index.
+
+**Thoughts**: Getting complex to remember how things are wired up.
+
 ### Day 60: March 3, Friday
 
 **Today's Progress**: Navigating on Submit.
