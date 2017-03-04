@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 60: March 3, Friday
+
+**Today's Progress**: Navigating on Submit.
+
+**Thoughts**: Cool to do this programmatically, instead of using Link tag.
+
 ### Day 59: March 2, Thursday
 
 **Today's Progress**: Form validation and cancel button for new post.
