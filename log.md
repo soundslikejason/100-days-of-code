@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 62: March 5, Sunday
+
+**Today's Progress**: Dynamic route params.
+
+**Thoughts**: Fairly simple to route a new component to show a post after clicking a post link.
+
 ### Day 61: March 4, Saturday
 
 **Today's Progress**: Posts index.
