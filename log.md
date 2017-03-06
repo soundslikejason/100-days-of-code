@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 63: March 6, Monday
+
+**Today's Progress**: Loading data on render.
+
+**Thoughts**: Actions >>> Reducers >>> Components
+
 ### Day 62: March 5, Sunday
 
 **Today's Progress**: Dynamic route params.
