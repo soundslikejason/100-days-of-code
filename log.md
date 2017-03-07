@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 64: March 7, Tuesday
+
+**Today's Progress**: Handling null props.
+
+**Thoughts**: mapStateToProps function connects state to props.
+
 ### Day 63: March 6, Monday
 
 **Today's Progress**: Loading data on render.
