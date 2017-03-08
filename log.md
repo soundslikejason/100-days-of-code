@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 65: March 8, Wednesday
+
+**Today's Progress**: Delete action creator, navigate on delete.
+
+**Thoughts**: Finished React-Redux blog app!
+
 ### Day 64: March 7, Tuesday
 
 **Today's Progress**: Handling null props.
