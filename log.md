@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 66: March 9, Thursday
+
+**Today's Progress**: RallyCoding: Basics of Redux Thunk, Combining Redux and Firebase, Dynamic Forms with Redux Form.
+
+**Thoughts**: The form refactor helped to render less code.
+
 ### Day 65: March 8, Wednesday
 
 **Today's Progress**: Delete action creator, navigate on delete.
