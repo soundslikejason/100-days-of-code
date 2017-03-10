@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 67: March 10, Friday
+
+**Today's Progress**: Learning about running tests in React.
+
+**Thoughts**: Trying to go deep.
+
 ### Day 66: March 9, Thursday
 
 **Today's Progress**: RallyCoding: Basics of Redux Thunk, Combining Redux and Firebase, Dynamic Forms with Redux Form.
