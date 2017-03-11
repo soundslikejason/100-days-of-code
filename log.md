@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 68: March 11, Saturday
+
+**Today's Progress**: A first spec
+
+**Thoughts**: First test passed!
+
 ### Day 67: March 10, Friday
 
 **Today's Progress**: Learning about running tests in React.
