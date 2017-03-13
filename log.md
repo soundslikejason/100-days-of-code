@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 70: March 13, Monday
+
+**Today's Progress**: Setup starter files, Gulp, and PostCSS.
+
+**Thoughts**: Automating tasks makes life easier. Analogy: if I wanted to bake a cake, I'd buy ingredients like flour instead of harvesting wheat.
+
 ### Day 69: March 12, Sunday
 
 **Today's Progress**: Finished reading YDKJS Book 2 "Scope & Closures." Starting mobile-first responsive website using a modern workflow.
