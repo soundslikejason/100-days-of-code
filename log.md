@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 69: March 12, Sunday
+
+**Today's Progress**: Finished reading YDKJS Book 2 "Scope & Closures." Starting mobile-first responsive website using a modern workflow.
+
+**Thoughts**: Taking a break from React projects to focus more on HTML, CSS, and JavaScript fundamentals.
+
 ### Day 68: March 11, Saturday
 
 **Today's Progress**: A first spec
