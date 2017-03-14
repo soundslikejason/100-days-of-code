@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 71: March 14, Tuesday
+
+**Today's Progress**: CSS architecture with BEM methodology.
+
+**Thoughts**: Finally learning how to write organized CSS.
+
 ### Day 70: March 13, Monday
 
 **Today's Progress**: Setup starter files, Gulp, and PostCSS.
