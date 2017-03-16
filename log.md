@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 72: March 15, Wednesday
+
+**Today's Progress**: Setup Browsersync.
+
+**Thoughts**: One of the coolest automation tools I've seen thus far!
+
 ### Day 71: March 14, Tuesday
 
 **Today's Progress**: CSS architecture with BEM methodology.
