@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 73: March 16, Thursday
+
+**Today's Progress**: Gulp organization and error handling.
+
+**Thoughts**: Gotta keep code clean and optimize workflow.
+
 ### Day 72: March 15, Wednesday
 
 **Today's Progress**: Setup Browsersync.
