@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 74: March 17, Friday
+
+**Today's Progress**: Mobile-first, mixins, and responsive images
+
+**Thoughts**: I was ignorant to what it takes to optimize load time based on devices.
+
 ### Day 73: March 16, Thursday
 
 **Today's Progress**: Gulp organization and error handling.
