@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 75: March 18, Saturday
+
+**Today's Progress**: Created reusable CSS blocks using BEM methodology. Headline block. 
+
+**Thoughts**: My CSS has never been more organized modular! Yes!!
+
 ### Day 74: March 17, Friday
 
 **Today's Progress**: Mobile-first, mixins, and responsive images
