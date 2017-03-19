@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 76: March 19, Sunday
+
+**Today's Progress**: Column layout block.
+
+**Thoughts**: Pretty much doing what Bootstrap would do, but I feel like I have more control on a granular level.
+
 ### Day 75: March 18, Saturday
 
 **Today's Progress**: Created reusable CSS blocks using BEM methodology. Headline block. 
