@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 77: March 20, Monday
+
+**Today's Progress**: Responsive details.
+
+**Thoughts**: Always factor in mobile view. Determine whether to use BEM element or modifier based on context and reusability.
+
 ### Day 76: March 19, Sunday
 
 **Today's Progress**: Column layout block.
@@ -10,7 +16,7 @@
 
 **Today's Progress**: Created reusable CSS blocks using BEM methodology. Headline block. 
 
-**Thoughts**: My CSS has never been more organized modular! Yes!!
+**Thoughts**: My CSS has never been more organized and modular! Yes!!
 
 ### Day 74: March 17, Friday
 
