@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 78: March 21, Tuesday
+
+**Today's Progress**: Styled our features section and merged branch into master.
+
+**Thoughts**: I ought to start using branches more.
+
 ### Day 77: March 20, Monday
 
 **Today's Progress**: Responsive details.
