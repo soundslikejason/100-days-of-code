@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 79: March 22, Wednesday
+
+**Today's Progress**: Started styling testimonials section.
+
+**Thoughts**: CSS game 💪
+
 ### Day 78: March 21, Tuesday
 
 **Today's Progress**: Styled our features section and merged branch into master.
