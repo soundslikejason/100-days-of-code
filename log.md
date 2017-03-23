@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 80: March 23, Thursday
+
+**Today's Progress**: Testimonials section styled for small and large screens
+
+**Thoughts**: Next is medium screens.
+
 ### Day 79: March 22, Wednesday
 
 **Today's Progress**: Started styling testimonials section.
