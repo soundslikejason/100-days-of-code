@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 81: March 24, Friday
+
+**Today's Progress**: Testimonials section styled for medium screens
+
+**Thoughts**: Much more confident in my CSS organization and workflow.
+
 ### Day 80: March 23, Thursday
 
 **Today's Progress**: Testimonials section styled for small and large screens
