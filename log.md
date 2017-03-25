@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 82: March 25, Saturday
+
+**Today's Progress**: Automatic sprites with gulp.
+
+**Thoughts**: Gulp task for creating a image sprite and the corresponding stylesheets. Makes for faster page load time.
+
 ### Day 81: March 24, Friday
 
 **Today's Progress**: Testimonials section styled for medium screens
