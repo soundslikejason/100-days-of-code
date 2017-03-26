@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 83: March 26, Sunday
+
+**Today's Progress**: Automatic sprites with gulp pt 2. Automation to handle future icon SVGs.
+
+**Thoughts**: Forgot to pull from master after updating readme and renaming repo on github. Caused some havoc after merging local branch to master and attempting to push. Whoops.
+
 ### Day 82: March 25, Saturday
 
 **Today's Progress**: Automatic sprites with gulp.
