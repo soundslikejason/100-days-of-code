@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 84: March 27, Monday
+
+**Today's Progress**: Automatic sprites with gulp pt 3. Delete and create new sprite svg and sprite css file depending on changes to icons assets.
+
+**Thoughts**: Seemed like a lot of work upfront to make it easy to add or delete icons assets.
+
 ### Day 83: March 26, Sunday
 
 **Today's Progress**: Automatic sprites with gulp pt 2. Automation to handle future icon SVGs.
