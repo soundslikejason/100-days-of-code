@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 86: March 29, Wednesday
+
+**Today's Progress**: Style header pt 1.
+
+**Thoughts**: Header is styled for large screens. Next up is styling for small screens (mobile).
+
 ### Day 85: March 28, Tuesday
 
 **Today's Progress**: Footer is styled.
