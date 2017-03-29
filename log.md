@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 85: March 28, Tuesday
+
+**Today's Progress**: Footer is styled.
+
+**Thoughts**: BEM is life. 🙌
+
 ### Day 84: March 27, Monday
 
 **Today's Progress**: Automatic sprites with gulp pt 3. Delete and create new sprite svg and sprite css file depending on changes to icons assets.
