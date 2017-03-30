@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 87: March 30, Thursday
+
+**Today's Progress**: Style header pt 2.
+
+**Thoughts**: Header is styled for small screens.
+
 ### Day 86: March 29, Wednesday
 
 **Today's Progress**: Style header pt 1.
