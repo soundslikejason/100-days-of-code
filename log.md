@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 88: March 31, Friday
+
+**Today's Progress**: Objected-oriented programming.
+
+**Thoughts**: After a lot of HTML and CSS, back to JavaScript!
+
 ### Day 87: March 30, Thursday
 
 **Today's Progress**: Style header pt 2.
