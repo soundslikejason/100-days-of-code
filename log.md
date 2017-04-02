@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 90: April 2, Sunday
+
+**Today's Progress**: Setup Babel. Incorporated ES6 class and import.
+
+**Thoughts**: No boilerplate this time for Babel.
+
 ### Day 89: April 1, Saturday
 
 **Today's Progress**: The JS module pattern and "webpack." Intergrated webpack into gulp automation.
