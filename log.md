@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 89: April 1, Saturday
+
+**Today's Progress**: The JS module pattern and "webpack."
+
+**Thoughts**: I have a better understanding of what module.exports does and the config file for webpack.
+
 ### Day 88: March 31, Friday
 
 **Today's Progress**: Objected-oriented programming.
