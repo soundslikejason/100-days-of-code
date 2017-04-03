@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 91: April 3, Monday
+
+**Today's Progress**: Adjusted mobile menu.
+
+**Thoughts**: Liked using opacity and z-index to create the fade-in/out effect.
+
 ### Day 90: April 2, Sunday
 
 **Today's Progress**: Setup Babel. Incorporated ES6 class and import. Avoid jQuery spaghetti.
