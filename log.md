@@ -2,9 +2,9 @@
 
 ### Day 90: April 2, Sunday
 
-**Today's Progress**: Setup Babel. Incorporated ES6 class and import.
+**Today's Progress**: Setup Babel. Incorporated ES6 class and import. Avoid jQuery spaghetti.
 
-**Thoughts**: No boilerplate this time for Babel.
+**Thoughts**: No boilerplate this time for Babel. New approach for organized jQuery.
 
 ### Day 89: April 1, Saturday
 
