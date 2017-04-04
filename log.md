@@ -4,7 +4,7 @@
 
 **Today's Progress**: Animating hamburger menu into an "X."
 
-**Thoughts**: CSS transition property is way cool, especially with transform-origin.
+**Thoughts**: CSS transform property is way cool, especially with transform-origin and transition.
 
 ### Day 91: April 3, Monday
 
