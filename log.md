@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 92: April 4, Tuesday
+
+**Today's Progress**: Animating hamburger menu into an "X."
+
+**Thoughts**: CSS transition property is way cool, especially with transform-origin.
+
 ### Day 91: April 3, Monday
 
 **Today's Progress**: Adjusted mobile menu.
