@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 93: April 5, Wednesday
+
+**Today's Progress**: Revealing elements on scroll. Making reveal module reusable.
+
+**Thoughts**: Waypoints library was super useful.
+
 ### Day 92: April 4, Tuesday
 
 **Today's Progress**: Animating hamburger menu into an "X."
