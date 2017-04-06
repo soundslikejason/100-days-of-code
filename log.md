@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 94: April 6, Thursday
+
+**Today's Progress**: Desktop sticky header. Link color change upon scrolling to page section. Smooth scrolling. 
+
+**Thoughts**: Work smarter by using libraries responsibly e.g. jquery-smooth-scroll.
+
 ### Day 93: April 5, Wednesday
 
 **Today's Progress**: Revealing elements on scroll. Making reveal module reusable.
