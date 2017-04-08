@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 95: April 7, Friday
+
+**Today's Progress**: Build a modal from scratch.
+
+**Thoughts**: CSS is magic. Also, more familiar with explicitly binding `this`. 
+
 ### Day 94: April 6, Thursday
 
 **Today's Progress**: Desktop sticky header. Link color change upon scrolling to page section. Smooth scrolling. 
