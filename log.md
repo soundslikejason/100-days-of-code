@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 96: April 8, Saturday
+
+**Today's Progress**: Lazy loading images for faster page loads.
+
+**Thoughts**: Also, saves user data if they do not scroll down.
+
 ### Day 95: April 7, Friday
 
 **Today's Progress**: Build a modal from scratch.
