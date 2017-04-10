@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 97: April 9, Sunday
+
+**Today's Progress**: Support for responsive images, SVG icons, and Flexbox layout in legacy browsers. Cleaned up sprites with padding.
+
+**Thoughts**: Must support 100% of users.
+
 ### Day 96: April 8, Saturday
 
 **Today's Progress**: Lazy loading images for faster page loads.
