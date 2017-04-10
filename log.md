@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 98: April 10, Monday
+
+**Today's Progress**: Prepare files for go live.
+
+**Thoughts**: Production ready code by minifying and revising files.
+
 ### Day 97: April 9, Sunday
 
 **Today's Progress**: Support for responsive images, SVG icons, and Flexbox layout in legacy browsers. Cleaned up sprites with padding.
