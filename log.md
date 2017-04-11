@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 99: April 11, Tuesday
+
+**Today's Progress**: Finished responsive travel site and deployed Github Pages!
+
+**Thoughts**: 🙌 🙌 🙌
+
 ### Day 98: April 10, Monday
 
 **Today's Progress**: Prepare files for go live.
