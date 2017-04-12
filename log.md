@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 100: April 12, Wednesday
+
+**Today's Progress**: Started Pig Game project.
+
+**Thoughts**: Using plain JavaScript to revisit and strengthen fundamentals. The #100DaysOfCode challenge is finished, but this is only the beginning of my journey! 💡
+
 ### Day 99: April 11, Tuesday
 
 **Today's Progress**: Finished responsive travel site and deployed Github Pages!
